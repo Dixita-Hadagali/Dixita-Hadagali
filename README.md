@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Dixita Hadagali
-
+Enthusiastic Coder | Java, Python | Ready to embark on a software development journey and bring creativity to coding.
+dixita-hadagali
 <!--
 **Dixita-Hadagali/Dixita-Hadagali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
